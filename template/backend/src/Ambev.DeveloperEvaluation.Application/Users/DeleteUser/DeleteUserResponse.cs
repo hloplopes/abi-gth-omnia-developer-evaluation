@@ -5,8 +5,5 @@ namespace Ambev.DeveloperEvaluation.Application.Users.DeleteUser;
 /// </summary>
 public class DeleteUserResponse
 {
-    /// <summary>
-    /// Indicates whether the deletion was successful
-    /// </summary>
     public bool Success { get; set; }
 }
